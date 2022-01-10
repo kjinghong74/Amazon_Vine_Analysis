@@ -10,7 +10,8 @@ In this project, I analyzed Amazon reviews database of Jewelry written by member
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
      52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. 
      
-## **Summary**
+## **Results**
+From data in results session, 52%  project is to analyze campain data with excel and display the trend how campain outcomes are influenced by variety of parameters. 
      From data provided in Results session, 52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. We can see that the percentage of 5-star reviews for the two types of review (paid vs unpaid) is very close. Therefore, I don't think there is bias towards reviews that were written as part of the Vine program.
      
 The campain outcomes (successful, failed, and canceled) for theater are analyzed and grouped in the launch month. The relationship between outcomes and lanuch month is displayed in pivot table and line chart. 
