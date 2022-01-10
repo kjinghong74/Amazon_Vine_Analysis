@@ -10,7 +10,7 @@ In this project, I analyzed Amazon reviews database of Jewelry written by member
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
      52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. 
  
- ![Results_counts](https://user-images.githubusercontent.com/90361056/148713585-54c7d1ff-379a-4e0a-b166-5430337b98f2.PNG)
+![Results_counts](https://user-images.githubusercontent.com/90361056/148713668-917815db-471b-48d5-84cb-abdb1aa9920f.PNG)
 
 
 ## **Summary**
