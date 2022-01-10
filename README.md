@@ -1,3 +1,12 @@
+# An Analysis of ***kickstarter Campaigns with Excel***
+## **Overview of Project**
+This project is to analyze campain data with excel and display the trend how campain outcomes are influenced by variety of parameters.  
+### **Purpose**
+Analyze and visualize campaign outcomes (successful, failed, and canceled) for theater and plays based on launch date and goals, respectively. 
+## **Analysis and Challenges**
+### **Analysis of outcomes based on Launch date**
+The campain outcomes (successful, failed, and canceled) for theater are analyzed and grouped in the launch month. The relationship between outcomes and lanuch month is displayed in pivot table and line chart. 
+
 # Amazon_Vine_Analysis
 ## **Overview of the analysis**
      In this project, I analyzed Amazon reviews database of Jewelry (url=https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Jewelry_v1_00.tsv.gz) written by members of the Amazon Vine program. Data were uploaded as a Google Colab Notebook, then extraced and transformed using pyspark, four data tables (customers_table, products_table, review_id_table, and vine_table) are generated and uploaded into pgAdmin. Then I analyzed wethere there is any bias towards reviews that were written as part of the Vine program vs non-Vine progame by comparing the percentage of 5-star reviews for these two types of review. 
