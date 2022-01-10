@@ -4,6 +4,7 @@
      
  ## Results:
      ![figure_counts](https://user-images.githubusercontent.com/90361056/148711361-3be15242-b131-409d-bcd3-91bef2450487.JPG)
+     
 
  - How many Vine reviews and non-Vine reviews were there?
     There are 21 Vine reviews and 7689 non-Vine reviews in this database. 
