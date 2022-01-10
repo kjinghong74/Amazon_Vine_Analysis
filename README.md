@@ -9,7 +9,10 @@ In this project, I analyzed Amazon reviews database of Jewelry written by member
      There are 11 out of 21 Vine reviews are 5 stars, and 4444 out of 7689 non-Vine reviews are 5 stars.
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
      52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. 
-     
+ 
+ ![Results_counts](https://user-images.githubusercontent.com/90361056/148713585-54c7d1ff-379a-4e0a-b166-5430337b98f2.PNG)
+
+
 ## **Summary**
 From data in results session, 52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. We can see that the percentage of 5-star reviews for the two types of review (paid vs unpaid) is very close. Therefore, I don't think there is bias towards reviews that were written as part of the Vine program.
      
